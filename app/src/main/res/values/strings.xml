@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">仿开源中国</string>
+    <string name="search">搜索</string>
+    <string name="news">综合</string>
+    <string name="tweet">动弹</string>
+    <string name="quick">快速</string>
+    <string name="explore">发现</string>
+    <string name="me">我的</string>
+    <string name="loading">加载中 &#8230;</string>
+</resources>
